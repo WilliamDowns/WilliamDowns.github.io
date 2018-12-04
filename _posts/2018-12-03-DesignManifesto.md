@@ -41,7 +41,7 @@ In addition to helping users overcome a specific issue, you should also design b
 
 While this design choice did not directly address our original design goal, it did serve to increase user enjoyment and engagement with our design. By getting users engaged and having fun with our design, we can indirectly help people feel like they belong in an art museum. Thus, it is wise to expand beyond a specific design goal to other ways that you can benefit your users. Sometimes you'll even help meet your original goal in the process.
 
-# Inclusive Accessibility
+# Design to the Same Level for Everyone
 
 In considering all manner of user concerns and desires, no matter is more important than ensuring anyone can engage with the design regardless of accessibility needs. Admittedly, there are many different ways I now realize we could have made our design and webpage more accessibile. We could have added text descriptions to all images in our posts if I had realized that the brackets in a markdown image tag weren't just for writing the image source (just learned that last week, check them out on the images on this page). However, we did consciously make several design decisions to improve accessibility. Our design made heavy use of color (like in showing possible emotional responses like the screen below) as a way to differentiate between choices.
 
