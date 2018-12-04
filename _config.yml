@@ -23,6 +23,7 @@ description: Brought to you by Will Downs
 
 # List of links in the navigation bar
 navbar-links:
+  Group Project Page: "https://nsang0u.github.io/amarteurs/"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
